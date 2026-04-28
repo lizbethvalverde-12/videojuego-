@@ -5,6 +5,8 @@ Tablero 3x3 y 5x5
 Turnos alternos entre el jugador y el ordenador 
 Para automáticamente al ganar o quedar  empate
 Reinicio de partida
+
+
 ----Mejoras añadidas----
 Sistema de login de usuarios
 Asociación de partidas y resultados a cada usuario
